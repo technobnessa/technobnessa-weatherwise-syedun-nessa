@@ -1,0 +1,7 @@
+Title: Repo structure & submission
+Date: 2025-10-14
+Goal: Match the assignment’s submission format.
+Notes:
+- Placed reflection at submission/reflection.md.
+- Added submission/checklist-md.md and five ai-logs/*.txt files.
+- Will download ZIP from GitHub and upload to LMS.
