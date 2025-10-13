@@ -1,0 +1,6 @@
+Title: Setup & scope
+Date: 2025-10-14
+Goal: Confirm AI-free runtime and what outputs are required.
+Notes:
+- Use Open-Meteo only (no LLMs).
+- Notebook must print Forecast window + Answer + two charts.
