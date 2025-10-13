@@ -1,0 +1,6 @@
+Title: Geocoder robustness
+Date: 2025-10-14
+Goal: Make city names resolve reliably.
+Notes:
+- Added ww_geocode variants (“Perth WA”, “Perth, Western Australia”).
+- Included generic fallbacks (Sydney, London, New York, Dhaka).
