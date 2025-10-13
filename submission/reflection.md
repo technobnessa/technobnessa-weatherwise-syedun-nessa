@@ -27,3 +27,9 @@ Extend the advisory with gust thresholds and humidity/heat-index adjustments; ad
 ## Academic Integrity
 
 Runtime is **AI-free**: the notebook uses deterministic Python (requests/pandas/matplotlib) and a public weather API. Conversational assistance supported planning and debugging only; it did not generate program logic or produce outputs during execution.
+
+## References
+- Open-Meteo Forecast API — https://api.open-meteo.com/v1/forecast
+- Open-Meteo Geocoding API — https://geocoding-api.open-meteo.com/v1/search
+- pandas — https://pandas.pydata.org/
+- matplotlib — https://matplotlib.org/
