@@ -1,0 +1,8 @@
+Title: Hourly → Daily aggregation
+Date: 2025-10-14
+Goal: Convert hourly variables to daily indicators.
+Notes:
+- temperature: daily mean (°C)
+- precipitation: daily sum (mm)
+- wind: daily mean (km/h, from m/s)
+- horizon fixed to 4 days
